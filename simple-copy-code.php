@@ -1,6 +1,12 @@
 <?php
 /*
 * Plugin Name: Simple Copy Code
+* Plugin URI: https://github.com/programonaut/simple-copy-code
+* Description: A simple Wordpress Plugin that allows you to copy the content of code blocks with the click of a button!
+* Version: 0.1.0
+* Author: Programonaut
+* Author URI: https://www.programonaut.com
+* License: GPLv2
 */
 
 function register_copy_code()
