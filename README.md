@@ -32,3 +32,8 @@ In case you need a different styling you can do so by adding styles to the class
 </div>
 ```
 For any questions feel free to reach out to [mail@programonaut.com](mailto:mail@programonaut.com).
+
+
+===
+
+License: GPLv2 or later
